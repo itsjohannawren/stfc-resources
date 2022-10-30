@@ -1,0 +1,173 @@
+---
+base:
+  Abilakk:
+    day: 2
+    hour: 1
+  Adia:
+    day: 3
+    hour: 16
+  Anzat:
+    day: 5
+    hour: 0
+  Aonad:
+    day: 0
+    hour: 21
+  Asiti:
+    day: 3
+    hour: 20
+  Avansa:
+    day: 4
+    hour: 18
+  Aylus:
+    day: 1
+    hour: 1
+  Barasa:
+    day: 6
+    hour: 23
+  Beku:
+    day: 5
+    hour: 22
+  Ber'Tho:
+    day: 5
+    hour: 1
+  Bimasa:
+    day: 1
+    hour: 22
+  Bolari:
+    day: 1
+    hour: 20
+  Brellan:
+    day: 0
+    hour: 1
+  Brijac:
+    day: 4
+    hour: 21
+  Burran:
+    day: 4
+    hour: 19
+  Comst:
+    day: 5
+    hour: 16
+  Corva:
+    day: 6
+    hour: 21
+  Crios:
+    day: 1
+    hour: 19
+  Durportas:
+    day: 1
+    hour: 23
+  Eldur:
+    day: 2
+    hour: 0
+  Ezla:
+    day: 5
+    hour: 20
+  Framtid:
+    day: 5
+    hour: 17
+  Gelida:
+    day: 0
+    hour: 17
+  Helvi:
+    day: 0
+    hour: 20
+  Hoobishan:
+    day: 1
+    hour: 17
+  Hrojost:
+    day: 4
+    hour: 22
+  Innlasn:
+    day: 0
+    hour: 18
+  Klefaski:
+    day: 5
+    hour: 23
+  Kolava:
+    day: 5
+    hour: 21
+  Lenara:
+    day: 4
+    hour: 1
+  Mak'ala:
+    day: 6
+    hour: 20
+  Nujord:
+    day: 3
+    hour: 22
+  Nyrheimur:
+    day: 6
+    hour: 22
+  Otima:
+    day: 3
+    hour: 17
+  Parturi:
+    day: 1
+    hour: 0
+  Perim:
+    day: 3
+    hour: 18
+  Qeyma:
+    day: 0
+    hour: 16
+  Roshar:
+    day: 1
+    hour: 21
+  Ruhe:
+    day: 5
+    hour: 18
+  Saldeti:
+    day: 5
+    hour: 19
+  Stilhe:
+    day: 0
+    hour: 23
+  Tazolka:
+    day: 6
+    hour: 0
+  Tefkari:
+    day: 3
+    hour: 21
+  Temeri:
+    day: 0
+    hour: 22
+  Tezera:
+    day: 4
+    hour: 23
+  Thaylen:
+    day: 3
+    hour: 19
+  Tholus:
+    day: 0
+    hour: 0
+  Thosz:
+    day: 4
+    hour: 0
+  Tigan:
+    day: 6
+    hour: 1
+  Tola:
+    day: 0
+    hour: 15
+  Triss:
+    day: 4
+    hour: 20
+  Vantar:
+    day: 4
+    hour: 17
+  Vemira:
+    day: 0
+    hour: 19
+  Zamaro:
+    day: 3
+    hour: 23
+  Zhian:
+    day: 1
+    hour: 18
+us:
+  _offset: 0
+eu:
+  _offset:
+ap:
+  _offset:
