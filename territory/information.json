@@ -1,0 +1,1565 @@
+{
+	"Abilakk": {
+		"detached": false,
+		"stars": 2,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "crystal"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "defense"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "phantom"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Adia": {
+		"detached": false,
+		"stars": 1,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "pvp combat"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "phantom"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Anzat": {
+		"detached": false,
+		"stars": 2,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "crystal"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "piercing enhancer"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "phantom"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Aonad": {
+		"detached": false,
+		"stars": 1,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"type": "tritanium"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "gas mining"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "quantum"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Asiti": {
+		"detached": false,
+		"stars": 1,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"type": "dilithium"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "ore mining"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "surax"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Avansa": {
+		"detached": false,
+		"stars": 2,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "ore"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "officer attack"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "quantum"
+		},
+		"improved-isogen": []
+	},
+	"Aylus": {
+		"detached": false,
+		"stars": 1,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "crystal mining"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "phantom"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Barasa": {
+		"detached": false,
+		"stars": 3,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"grade": 4,
+				"type": "ore"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "ore"
+			},
+			"gamma": {
+				"grade": 3,
+				"type": "ore"
+			}
+		},
+		"enhancers": {
+			"standard": "hull enhancer",
+			"advanced": "hull enhancer"
+		},
+		"forges": {
+			"jelly": true,
+			"sarcophagus": false
+		},
+		"generators": {
+			"standard": "metreon"
+		},
+		"improved-isogen": []
+	},
+	"Beku": {
+		"detached": false,
+		"stars": 1,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "pvp combat"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "phantom"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Ber'Tho": {
+		"detached": false,
+		"stars": 2,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "crystal"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "defense platform"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "phantom"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Bimasa": {
+		"detached": false,
+		"stars": 2,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "crystal"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "defense enhancer"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "phantom"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Bolari": {
+		"detached": false,
+		"stars": 2,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "ore"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "construction speed"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"standard": "surax"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Brellan": {
+		"detached": false,
+		"stars": 3,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"grade": 4,
+				"type": "crystal"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "crystal"
+			},
+			"gamma": {
+				"grade": 3,
+				"type": "crystal"
+			}
+		},
+		"enhancers": {
+			"standard": "officer enhancer",
+			"advanced": "officer enhancer"
+		},
+		"forges": {
+			"jelly": true,
+			"sarcophagus": false
+		},
+		"generators": {
+			"standard": "metreon"
+		},
+		"improved-isogen": []
+	},
+	"Brijac": {
+		"detached": false,
+		"stars": 2,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "ore"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "protected cargo"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"standard": "surax"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Burran": {
+		"detached": false,
+		"stars": 2,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "ore"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "officer defense"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "surax"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Comst": {
+		"detached": false,
+		"stars": 1,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "accuracy"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "quantum"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Corva": {
+		"detached": false,
+		"stars": 3,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"grade": 4,
+				"type": "ore"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "ore"
+			},
+			"gamma": {
+				"grade": 3,
+				"type": "ore"
+			}
+		},
+		"enhancers": {
+			"standard": "shield enhancer",
+			"advanced": "shield enhancer"
+		},
+		"forges": {
+			"jelly": true,
+			"sarcophagus": false
+		},
+		"generators": {
+			"standard": "metreon"
+		},
+		"improved-isogen": []
+	},
+	"Crios": {
+		"detached": false,
+		"stars": 2,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "ore"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "seige enhancer"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "quantum"
+		},
+		"improved-isogen": []
+	},
+	"Durportas": {
+		"detached": false,
+		"stars": 2,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "crystal"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "piercing enhancer"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "quantum"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Eldur": {
+		"detached": false,
+		"stars": 2,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "gas"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "seige enhancer"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "quantum"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Ezla": {
+		"detached": false,
+		"stars": 1,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"type": "tritanium"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "hostile combat"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "surax"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Framtid": {
+		"detached": false,
+		"stars": 1,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"type": "tritanium"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "research efficiency"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "quantum"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Gelida": {
+		"detached": false,
+		"stars": 1,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"type": "tritanium"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "crystal mining"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "phantom"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Helvi": {
+		"detached": false,
+		"stars": 1,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"type": "parsteel"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "deflection"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "quantum"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Hoobishan": {
+		"detached": false,
+		"stars": 2,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "gas"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "officer defense"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "surax"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Hrojost": {
+		"detached": false,
+		"stars": 2,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "gas"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "research speed"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "quantum"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Innlasn": {
+		"detached": false,
+		"stars": 1,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"type": "dilithium"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "gas mining"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "quantum"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Klefaski": {
+		"detached": false,
+		"stars": 1,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "armada combat"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "quantum"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Kolava": {
+		"detached": false,
+		"stars": 1,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"type": "parsteel"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "hostile combat"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "surax"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Lenara": {
+		"detached": false,
+		"stars": 1,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "sheild penetration"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"advanced": "surax"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Mak'ala": {
+		"detached": false,
+		"stars": 3,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"grade": 4,
+				"type": "gas"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "gas"
+			},
+			"gamma": {
+				"grade": 3,
+				"type": "gas"
+			}
+		},
+		"enhancers": {
+			"standard": "mining",
+			"advanced": "mining"
+		},
+		"forges": {
+			"jelly": true,
+			"sarcophagus": false
+		},
+		"generators": {
+			"standard": "metreon"
+		},
+		"improved-isogen": []
+	},
+	"Nujord": {
+		"detached": false,
+		"stars": 1,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "dodge enhancer"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "phantom"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Nyrheimur": {
+		"detached": false,
+		"stars": 3,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"grade": 4,
+				"type": "gas"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "gas"
+			},
+			"gamma": {
+				"grade": 3,
+				"type": "gas"
+			}
+		},
+		"enhancers": {
+			"standard": "repair enhancer",
+			"advanced": "repair enhancer"
+		},
+		"forges": {
+			"jelly": true,
+			"sarcophagus": false
+		},
+		"generators": {
+			"standard": "metreon"
+		},
+		"improved-isogen": []
+	},
+	"Otima": {
+		"detached": false,
+		"stars": 1,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"type": "parsteel"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "research efficiency"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"standard": "quantum"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Parturi": {
+		"detached": false,
+		"stars": 1,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "sheild penetration"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "surax"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Perim": {
+		"detached": false,
+		"stars": 1,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"type": "parsteel"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "armor piercing"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"standard": "phantom"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Qeyma": {
+		"detached": false,
+		"stars": 1,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"type": "tritanium"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "armor enhancer"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "surax"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Roshar": {
+		"detached": false,
+		"stars": 2,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "ore"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "research speed"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "quantum"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Ruhe": {
+		"detached": false,
+		"stars": 1,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "deflection enhancer"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "quantum"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Saldeti": {
+		"detached": false,
+		"stars": 1,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"type": "parsteel"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "component efficiency"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "phantom"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Stilhe": {
+		"detached": false,
+		"stars": 1,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "construction efficiency"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "surax"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Tazolka": {
+		"detached": false,
+		"stars": 1,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"type": "tritanium"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "dodge enhancer"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "phantom"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Tefkari": {
+		"detached": false,
+		"stars": 1,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "accuracy"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "quantum"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Temeri": {
+		"detached": false,
+		"stars": 1,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"type": "dilithium"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "armor piercing"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "phantom"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Tezera": {
+		"detached": false,
+		"stars": 2,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "crystal"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "defence platform"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "phantom"
+		},
+		"improved-isogen": []
+	},
+	"Thaylen": {
+		"detached": false,
+		"stars": 1,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"type": "dilithium"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "armada combat"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "quantum"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Tholus": {
+		"detached": false,
+		"stars": 3,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"grade": 4,
+				"type": "crystal"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "crystal"
+			},
+			"gamma": {
+				"grade": 3,
+				"type": "crystal"
+			}
+		},
+		"enhancers": {
+			"standard": "damage",
+			"advanced": "damage"
+		},
+		"forges": {
+			"jelly": true,
+			"sarcophagus": false
+		},
+		"generators": {
+			"standard": "metreon"
+		},
+		"improved-isogen": []
+	},
+	"Thosz": {
+		"detached": false,
+		"stars": 1,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"type": "parsteel"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "component efficiency"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "phantom"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Tigan": {
+		"detached": false,
+		"stars": 1,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"type": "dilithium"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "armor enhancer"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "surax"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Tola": {
+		"detached": true,
+		"stars": 1,
+		"particle": null,
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"gamma": {
+				"grade": 1,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "hostile combat"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": null
+	},
+	"Triss": {
+		"detached": false,
+		"stars": 2,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "gas"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "protected cargo"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "surax"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Vantar": {
+		"detached": false,
+		"stars": 2,
+		"particle": "quantum",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "gas"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "officer attack"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "quantum"
+		},
+		"improved-isogen": [
+			3
+		]
+	},
+	"Vemira": {
+		"detached": false,
+		"stars": 1,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"grade": 1,
+				"type": "isogen"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "ore mining"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "surax"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Zamaro": {
+		"detached": false,
+		"stars": 1,
+		"particle": "phantom",
+		"resources": {
+			"alpha": {
+				"type": "dilithium"
+			},
+			"beta": {
+				"grade": 2,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "armor piercing"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": true
+		},
+		"generators": {
+			"standard": "phantom"
+		},
+		"improved-isogen": [
+			1,
+			2
+		]
+	},
+	"Zhian": {
+		"detached": false,
+		"stars": 2,
+		"particle": "surax",
+		"resources": {
+			"alpha": {
+				"grade": 3,
+				"type": "gas"
+			},
+			"beta": {
+				"grade": 3,
+				"type": "isogen"
+			}
+		},
+		"enhancers": {
+			"standard": "construction speed"
+		},
+		"forges": {
+			"jelly": false,
+			"sarcophagus": false
+		},
+		"generators": {
+			"advanced": "surax"
+		},
+		"improved-isogen": [
+			3
+		]
+	}
+}

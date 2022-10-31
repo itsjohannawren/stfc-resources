@@ -1,4 +1,3 @@
----
 base:
   Abilakk:
     day: 2
@@ -168,6 +167,6 @@ base:
 us:
   _offset: -7
 eu:
-  _offset:
-ap:
-  _offset:
+  _offset: null
+apac:
+  _offset: null

@@ -1,4 +1,3 @@
----
 Abilakk:
   detached: false
   stars: 2
@@ -18,7 +17,7 @@ Abilakk:
   generators:
     advanced: phantom
   improved-isogen:
-  - 3
+    - 3
 Adia:
   detached: false
   stars: 1
@@ -38,8 +37,8 @@ Adia:
   generators:
     standard: phantom
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Anzat:
   detached: false
   stars: 2
@@ -59,7 +58,7 @@ Anzat:
   generators:
     advanced: phantom
   improved-isogen:
-  - 3
+    - 3
 Aonad:
   detached: false
   stars: 1
@@ -78,8 +77,8 @@ Aonad:
   generators:
     standard: quantum
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Asiti:
   detached: false
   stars: 1
@@ -98,8 +97,8 @@ Asiti:
   generators:
     standard: surax
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Avansa:
   detached: false
   stars: 2
@@ -138,8 +137,8 @@ Aylus:
   generators:
     standard: phantom
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Barasa:
   detached: false
   stars: 3
@@ -182,8 +181,8 @@ Beku:
   generators:
     standard: phantom
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Ber'Tho:
   detached: false
   stars: 2
@@ -203,7 +202,7 @@ Ber'Tho:
   generators:
     advanced: phantom
   improved-isogen:
-  - 3
+    - 3
 Bimasa:
   detached: false
   stars: 2
@@ -223,7 +222,7 @@ Bimasa:
   generators:
     advanced: phantom
   improved-isogen:
-  - 3
+    - 3
 Bolari:
   detached: false
   stars: 2
@@ -243,7 +242,7 @@ Bolari:
   generators:
     standard: surax
   improved-isogen:
-  - 3
+    - 3
 Brellan:
   detached: false
   stars: 3
@@ -286,7 +285,7 @@ Brijac:
   generators:
     standard: surax
   improved-isogen:
-  - 3
+    - 3
 Burran:
   detached: false
   stars: 2
@@ -306,7 +305,7 @@ Burran:
   generators:
     advanced: surax
   improved-isogen:
-  - 3
+    - 3
 Comst:
   detached: false
   stars: 1
@@ -326,8 +325,8 @@ Comst:
   generators:
     standard: quantum
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Corva:
   detached: false
   stars: 3
@@ -389,7 +388,7 @@ Durportas:
   generators:
     advanced: quantum
   improved-isogen:
-  - 3
+    - 3
 Eldur:
   detached: false
   stars: 2
@@ -409,7 +408,7 @@ Eldur:
   generators:
     advanced: quantum
   improved-isogen:
-  - 3
+    - 3
 Ezla:
   detached: false
   stars: 1
@@ -428,8 +427,8 @@ Ezla:
   generators:
     standard: surax
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Framtid:
   detached: false
   stars: 1
@@ -448,8 +447,8 @@ Framtid:
   generators:
     standard: quantum
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Gelida:
   detached: false
   stars: 1
@@ -468,8 +467,8 @@ Gelida:
   generators:
     standard: phantom
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Helvi:
   detached: false
   stars: 1
@@ -488,8 +487,8 @@ Helvi:
   generators:
     standard: quantum
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Hoobishan:
   detached: false
   stars: 2
@@ -509,7 +508,7 @@ Hoobishan:
   generators:
     advanced: surax
   improved-isogen:
-  - 3
+    - 3
 Hrojost:
   detached: false
   stars: 2
@@ -529,7 +528,7 @@ Hrojost:
   generators:
     advanced: quantum
   improved-isogen:
-  - 3
+    - 3
 Innlasn:
   detached: false
   stars: 1
@@ -548,8 +547,8 @@ Innlasn:
   generators:
     standard: quantum
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Klefaski:
   detached: false
   stars: 1
@@ -569,8 +568,8 @@ Klefaski:
   generators:
     standard: quantum
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Kolava:
   detached: false
   stars: 1
@@ -589,8 +588,8 @@ Kolava:
   generators:
     standard: surax
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Lenara:
   detached: false
   stars: 1
@@ -610,8 +609,8 @@ Lenara:
   generators:
     advanced: surax
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Mak'ala:
   detached: false
   stars: 3
@@ -654,8 +653,8 @@ Nujord:
   generators:
     standard: phantom
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Nyrheimur:
   detached: false
   stars: 3
@@ -697,8 +696,8 @@ Otima:
   generators:
     standard: quantum
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Parturi:
   detached: false
   stars: 1
@@ -718,8 +717,8 @@ Parturi:
   generators:
     standard: surax
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Perim:
   detached: false
   stars: 1
@@ -738,8 +737,8 @@ Perim:
   generators:
     standard: phantom
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Qeyma:
   detached: false
   stars: 1
@@ -758,8 +757,8 @@ Qeyma:
   generators:
     standard: surax
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Roshar:
   detached: false
   stars: 2
@@ -779,7 +778,7 @@ Roshar:
   generators:
     advanced: quantum
   improved-isogen:
-  - 3
+    - 3
 Ruhe:
   detached: false
   stars: 1
@@ -799,8 +798,8 @@ Ruhe:
   generators:
     standard: quantum
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Saldeti:
   detached: false
   stars: 1
@@ -819,8 +818,8 @@ Saldeti:
   generators:
     standard: phantom
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Stilhe:
   detached: false
   stars: 1
@@ -840,8 +839,8 @@ Stilhe:
   generators:
     standard: surax
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Tazolka:
   detached: false
   stars: 1
@@ -860,8 +859,8 @@ Tazolka:
   generators:
     standard: phantom
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Tefkari:
   detached: false
   stars: 1
@@ -881,8 +880,8 @@ Tefkari:
   generators:
     standard: quantum
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Temeri:
   detached: false
   stars: 1
@@ -901,8 +900,8 @@ Temeri:
   generators:
     standard: phantom
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Tezera:
   detached: false
   stars: 2
@@ -940,8 +939,8 @@ Thaylen:
   generators:
     standard: quantum
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Tholus:
   detached: false
   stars: 3
@@ -983,8 +982,8 @@ Thosz:
   generators:
     standard: phantom
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Tigan:
   detached: false
   stars: 1
@@ -1003,12 +1002,12 @@ Tigan:
   generators:
     standard: surax
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Tola:
   detached: true
   stars: 1
-  particle:
+  particle: null
   resources:
     alpha:
       grade: 1
@@ -1024,7 +1023,7 @@ Tola:
   forges:
     jelly: false
     sarcophagus: false
-  generators:
+  generators: null
 Triss:
   detached: false
   stars: 2
@@ -1044,7 +1043,7 @@ Triss:
   generators:
     advanced: surax
   improved-isogen:
-  - 3
+    - 3
 Vantar:
   detached: false
   stars: 2
@@ -1064,7 +1063,7 @@ Vantar:
   generators:
     advanced: quantum
   improved-isogen:
-  - 3
+    - 3
 Vemira:
   detached: false
   stars: 1
@@ -1084,8 +1083,8 @@ Vemira:
   generators:
     standard: surax
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Zamaro:
   detached: false
   stars: 1
@@ -1104,8 +1103,8 @@ Zamaro:
   generators:
     standard: phantom
   improved-isogen:
-  - 1
-  - 2
+    - 1
+    - 2
 Zhian:
   detached: false
   stars: 2
@@ -1125,4 +1124,4 @@ Zhian:
   generators:
     advanced: surax
   improved-isogen:
-  - 3
+    - 3
