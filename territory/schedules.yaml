@@ -166,7 +166,7 @@ base:
     day: 1
     hour: 18
 us:
-  _offset: 0
+  _offset: -7
 eu:
   _offset:
 ap:
