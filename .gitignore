@@ -1,0 +1,3 @@
+# Data is too transient to store
+servers/status.json
+servers/status.yaml
