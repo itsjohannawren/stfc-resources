@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 SOURCE="https://cdn-nv3-live.startrek.digitgaming.com/gateway/v2/game_info/prime"
-TARGET="servers/regions"
+TARGET="data/servers/regions"
 
 # ==============================================================================
 

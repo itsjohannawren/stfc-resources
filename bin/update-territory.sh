@@ -19,4 +19,4 @@ while read -r SOURCE; do
 	fi
 
 	yq -p json -o yaml "${SOURCE}" > "${SOURCE%.json}.yaml"
-done <<<"$(find "$(dirname "${__DIR__}")/territory" -type f -name '*.json')"
+done <<<"$(find "$(dirname "${__DIR__}")/data/territory" -type f -name '*.json')"

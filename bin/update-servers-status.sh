@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 SOURCE="https://cdn-nv3-live.startrek.digitgaming.com/gateway/v2/game_info/prime"
-TARGET="servers/status"
+TARGET="data/servers/status"
 
 # ==============================================================================
 
@@ -62,6 +62,7 @@ jq '
 					"id": ($server.id),
 					"name": ($server.name),
 					"region": ($server.name | ascii_downcase | sub("-[0-9]+$"; "")),
+					"priority": ($server.priority),
 					"up": (if ($server.status | tonumber) == 1 then true else false end),
 					"maintenance": (if ($server.maintenance | tonumber) == 0 then false else true end),
 					"transfer_in": ($server.player_transfer_state.transfer_in),
